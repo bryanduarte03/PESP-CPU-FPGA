@@ -1,0 +1,24 @@
+# Quartus generated files
+db/
+incremental_db/
+output_files/
+.qsys_edit/
+
+# Simulation files
+simulation/
+work/
+transcript
+vsim.wlf
+*.vcd
+
+# Temporary files
+*.bak
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.pin
+
+# Operating system
+.DS_Store
+Thumbs.db
